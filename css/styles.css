@@ -57,6 +57,12 @@ address {
     letter-spacing: 0.32px;
     
 }
+.adress:hower {
+    color: #404bbf;
+}
+.adress:focus {
+    color: #404bbf;
+}
 .solutions {
     background-color: #2E2F42;
     color: #fff;
