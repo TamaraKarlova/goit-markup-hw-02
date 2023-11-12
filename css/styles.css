@@ -39,6 +39,12 @@ color: #404bbf;
     line-height: 24px;
     letter-spacing: 0.32px;
 }
+.header-nav:hover {
+    color: #404bbf;
+}
+.header-nav:focus {
+    color: #404bbf;
+}
 address {
     font-style: normal;
 }
